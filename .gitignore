@@ -1,0 +1,4 @@
+/target/
+/outputs/
+*.swp
+.DS_Store
